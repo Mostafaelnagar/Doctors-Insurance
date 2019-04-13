@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.fangxu.allangleexpandablebutton.AllAngleExpandableButton
+        android:id="@+id/button_expandable_90_180"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:aebAnimDurationMillis="175"
+        app:aebButtonElevation="4dp"
+        app:aebButtonGapDp="45dp"
+        app:aebEndAngleDegree="180"
+        app:aebIsSelectionMode="false"
+        app:aebMainButtonRotateAnimDurationMillis="300"
+        app:aebMainButtonRotateDegree="-135"
+        app:aebMainButtonSizeDp="45dp"
+        app:aebRippleEffect="true"
+        app:aebStartAngleDegree="0"
+        app:aebSubButtonSizeDp="45dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

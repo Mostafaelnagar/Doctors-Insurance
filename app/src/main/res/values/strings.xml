@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Doctors&amp;Insurance</string>
+    <string name="insurance_text">Insureance</string>
+    <string name="doctors">Ask Doctors</string>
+    <string name="choose_doctor">Choose Doctor</string>
+    <string name="message_text">Type Your Message</string>
+    <string name="edit_message_hint">Your Message</string>
+    <string name="button_send">Send</string>
+    <string name="ask_doctors">Ask Doctors</string>
+    <string name="connection_error">Check Your internnet connection</string>
+    <string name="dummy_text">some dummy text</string>
+    <string name="doctor__text">Dr : Ahmed Ali</string>
+</resources>
